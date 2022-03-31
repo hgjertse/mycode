@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+
+folks= ["David", "Elena", "Emily", "Chad", "Haley", "Jim", "Jonathan", "Matt", "Mike"]
+
+coolfolks= []
+
+for Chad in folks:
+	print(Chad)
